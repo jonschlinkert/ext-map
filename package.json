@@ -1,6 +1,6 @@
 {
   "name": "ext-map",
-  "description": "maps `src` file extensions to `dest` file extensions as key/value pairs (e.g. `{'.less': '.css'}`). Useful for rewriting paths in tasks/plugins. pull requests welcome.",
+  "description": "just an object that maps `src` file extensions to `dest` file extensions as key/value pairs (e.g. `{'.less': '.css'}`). Useful for dynamically rewriting paths in tasks/plugins. pull requests welcome.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/ext-map",
   "author": {

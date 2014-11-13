@@ -1,6 +1,6 @@
 # ext-map [![NPM version](https://badge.fury.io/js/ext-map.svg)](http://badge.fury.io/js/ext-map)
 
-> maps `src` file extensions to `dest` file extensions as key/value pairs (e.g. `{'.less': '.css'}`). Useful for rewriting paths in tasks/plugins. pull requests welcome.
+> just an object that maps `src` file extensions to `dest` file extensions as key/value pairs (e.g. `{'.less': '.css'}`). Useful for dynamically rewriting paths in tasks/plugins. pull requests welcome.
 
 ## Install
 ### Install with [npm](npmjs.org)
