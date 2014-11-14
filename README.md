@@ -29,6 +29,7 @@ Pull requests to add mappings would be appreciated.
 
 - `.md`: => `.html`
 - `.hbs`: => `.html`
+- `.slim`: => `.html`
 - `.swig`: => `.html`
 - `.tmpl`: => `.html`
 - `.html`: => `.html`
@@ -45,6 +46,8 @@ Pull requests to add mappings would be appreciated.
 **js**
 
 - `.coffee`: => `.js`
+- `.ls`: => `.js`
+- `.ts`: => `.js`
 - `.js`: => `.js`
 
 

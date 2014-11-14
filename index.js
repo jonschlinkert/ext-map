@@ -4,6 +4,7 @@ module.exports = {
   // html
   '.md': '.html',
   '.hbs': '.html',
+  '.slim': '.html',
   '.swig': '.html',
   '.tmpl': '.html',
   '.html': '.html',
@@ -16,5 +17,7 @@ module.exports = {
   '.css': '.css',
   // js
   '.coffee': '.js',
+  '.ls': '.js',
+  '.ts': '.js',
   '.js': '.js',
 };
