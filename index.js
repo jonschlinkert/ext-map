@@ -9,12 +9,14 @@ module.exports = {
   '.tmpl': '.html',
   '.html': '.html',
   '.htm': '.html',
+
   // css
   '.less': '.css',
   '.styl': '.css',
   '.sass': '.css',
   '.scss': '.css',
   '.css': '.css',
+
   // js
   '.coffee': '.js',
   '.ls': '.js',
